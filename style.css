@@ -19,7 +19,7 @@ body{
     --cinza: #444;
     --white: #FAF9FA;
     --gradient: repeating-linear-gradient(45deg, #fff, #fff 1px, transparent 1px, transparent 5px),
-        repeating-linear-gradient(-45deg, #fff, #fff 1px, transparent 1px, transparent 5px), #dfdfdf;
+        repeating-linear-gradient(-45deg, #fff, #fff 1px, transparent 1px, transparent 5px), #ffffff;
     --shadow: 0 0 0 5px var(--marron-2), 0 0 20px 12px rgba(0,0,0,.2);
 }
 a{
